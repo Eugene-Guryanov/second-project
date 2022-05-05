@@ -1,7 +1,7 @@
-@import url(../normalize.css);
-@import url(../blocks/page/page\ .css);
-@import url(../blocks/digits/digits\ .css);
-@import url(../blocks/feynman/feynman\ .css);
+@import url("../normalize.css");
+@import url("../blocks/page/page\ .css");
+@import url("../blocks/digits/digits\ .css");
+@import url("../blocks/feynman/feynman\ .css");
 @import url(../blocks/feynman/__img/feynman__img\ .css);
 @import url(../blocks/feynman/__link/feynman__link\ .css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle\ .css);
